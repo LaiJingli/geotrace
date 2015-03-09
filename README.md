@@ -4,9 +4,9 @@ geotrace是根据mtr（my trace route）的报告内容结合whois来直观显�
 
 依赖程序：mtr、whois、awk
 
-使用方法：
-1、确保依赖程序正常；
-2、wget https://raw.githubusercontent.com/LaiJingli/geotrace/master/geotrace.sh 
-   chmod +x geotrace.sh
-   ./geotrace.sh ip/domain
+使用方法：  
+1、确保依赖程序正常；  
+2、wget https://raw.githubusercontent.com/LaiJingli/geotrace/master/geotrace.sh   
+   chmod +x geotrace.sh  
+   ./geotrace.sh ip/domain  
 
